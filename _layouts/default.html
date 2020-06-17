@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="theme-base-08">
 
     {% include sidebar.html %}
 
@@ -27,5 +27,50 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
+
+
+    <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
+    <script>
+      L2Dwidget.init({
+          "model": {
+    　　　　　　　//jsonpath控制显示那个小萝莉模型
+              jsonPath: "https://unpkg.com/live2d-widget-model-hijiki@1.0.5/assets/hijiki.model.json",
+              "scale": 1
+          },
+          "display": {
+              "position": "right", //看板娘的表现位置
+              "width": 100,  //小萝莉的宽度
+              "height": 150, //小萝莉的高度
+              "hOffset": 0,
+              "vOffset": 0
+          },
+          "mobile": {
+              "show": true,
+              "scale": 0.5
+          },
+          "react": {
+              "opacityDefault": 1,
+              "opacityOnHover": 0.7
+          }
+      });
+    </script>
+
+    <script type="text/javascript">
+      $("script[type='math/tex']").replaceWith(
+        function(){
+          var tex = $(this).text();
+          return "<span class=\"inline-equation\">" + 
+                katex.renderToString(tex) +
+                "</span>";
+      });
+      
+      $("script[type='math/tex; mode=display']").replaceWith(
+        function(){
+          var tex = $(this).text();
+          return "<div class=\"equation\">" + 
+                katex.renderToString("\\displaystyle "+tex) +
+                "</div>";
+      });
+      </script>
   </body>
 </html>
