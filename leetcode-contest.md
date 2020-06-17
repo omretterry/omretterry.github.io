@@ -5,10 +5,15 @@ ontop: true
 ---
 
 ## 周赛专题
+> 周赛、双周赛笔记 ；也许会不完整，做不出来的题目后面慢慢补上(弱鸡的挣扎)
 
 >  **Tips:**
 > * 题目名称 &rarr; leetcode对应题目页面
 > * 查看按钮 &rarr; 对应解题
+
+##### Terry Li的Leetcode刷题之路
+
+[&rarr; 点我前往](/leetcode/)
 
 ### [周赛 #193](https://leetcode-cn.com/contest/weekly-contest-193)
 

@@ -5,11 +5,13 @@ layout: default
 ## [1475\. 商品折扣后的最终价格](https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/)
 
 #### 思路
+
 首先遍历商品，找到第一个满足条件的商品，计算出优惠后的价格，写入到`结果数组`中
 
 #### 代码
+
 python3
-```
+```python
 class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:
       result = prices[::]

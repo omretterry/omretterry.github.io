@@ -3,9 +3,13 @@ layout: default
 ---
 
 ## [1473\. 给房子涂色 III](https://leetcode-cn.com/problems/paint-house-iii/)
+
 #### 思路
+
 根据Hard必死定律，再加上周赛dp必死定律。这道题依旧是没有做出来。但是这次做完了阅读理解，也尝试着在纸上构造了一下转态转移，也算是小有进步吧。
+
 阅读大佬解法，获得新思路：
+
 * 动态规划我们首先要找出状态，状态之前满足**最优子问题**和**后无效性**，确定状态转移方程，然后开始求解
 * 这道题中，分析状态，主要有三个：`房子`、`颜色`、`街区`
 * 构造dp数组 `dp[k][i][j]` 代表涂到第k个房子，使用颜色i，街区数量为j时的最小花费
@@ -13,7 +17,8 @@ layout: default
 * 假设0个房子有颜色1，`dp[0][1][1] = 0; dp[0][other][1] = math.inf` ，表示第0个房子已经涂了颜色了，不需要再涂，所以花费为0。其他的颜色无法再涂，花费为无穷大
 * 假设一个房子的最小花费是无穷大，表示不可行，那也无法从这个房子进行状态转移
 * **状态转移**
-```
+
+```python
 1.当前房子有颜色
     1.dp[k][i][j] = dp[k-1][i][j] （颜色相同，街区不加，且当前房子有颜色费用为0）
     2.dp[k][i][j+1] = dp[k-1][!=i][j] （颜色不同，街区加1，当前房子有颜色，不用刷，当前费用为0）
@@ -23,9 +28,11 @@ layout: default
 ```
 
 以上，尝试写一下代码。
+
 #### 代码
+
 python3
-```
+```python
 class Solution:
   def minCost(self, houses: List[int], cost: List[List[int]], m: int, n: int, target: int) -> int:
     dp = [[[math.inf for _ in range(m+1)] for _ in range(n+1)] for _ in range(m)]

@@ -5,7 +5,9 @@ layout: default
 ## [1471\. 数组中的 k 个最强值](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array/)
 
 #### 思路
+
 说下我的思路
+
 * 先算出中位数
 * 遍历数组，算出每个数和中位数的差值，保存
 * 同时保存下标，应为当差值相同是，下标也要作为权重的判断依据
@@ -15,8 +17,9 @@ layout: default
 AC！
 
 #### 代码
+
 python
-```
+```python
 class Solution:
     def getStrongest(self, arr, k):
       s = sorted(arr)
