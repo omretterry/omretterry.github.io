@@ -24,6 +24,7 @@ ontop: true
 |编号|名称|难度|标签|操作|
 |------|------|------|------|------|
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|Easy|数学|[查看](./liner-data-structure/palindrome-number)|
+|461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|Easy|位运算|[查看](./liner-data-structure/hamming-distance)|
 |1431|[拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)|Easy||[查看](./liner-data-structure/kids-with-the-greatest-number-of-candies)|
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|Easy||[查看](./liner-data-structure/longest-common-prefix)|
 |面试题.64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|Easy||[查看](./liner-data-structure/qiu-12n-lcof)|
@@ -45,6 +46,7 @@ ontop: true
 |990|[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|Medium|并查集|[查看](./nonliner-data-structure/satisfiability-of-equality-equations)|
 |743|[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|Medium|邻接表，Dijkstra算法|[查看](./nonliner-data-structure/network-delay-time)|
 |126|[单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/)|Hard|邻接表，双向BFS|[查看](./nonliner-data-structure/word-ladder-ii)
+|1028|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)|Hard|递归|[查看](./nonliner-data-structure/recover-a-tree-from-preorder-traversal)|
 
 
 ##### 动态规划
