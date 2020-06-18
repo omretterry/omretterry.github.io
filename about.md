@@ -12,6 +12,8 @@ title: 关于
 
 
 #### 联系方式
-email: omretterry@gmail.com
+Email: omretterry@gmail.com
 
-leetcode主页: [https://leetcode-cn.com/u/terryli/](https://leetcode-cn.com/u/terryli/)
+Github: [https://github.com/omretterry](https://github.com/omretterry)
+
+Leetcode: [https://leetcode-cn.com/u/terryli/](https://leetcode-cn.com/u/terryli/)
