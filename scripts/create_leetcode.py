@@ -1,12 +1,14 @@
 
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-####################################
+############################################################
 #author        terry.li
 #date          18/06/2020
 #version       1.0.0
-#description   Create the post              
-####################################
+#description   Create the leetcocde post
+#              You need to run the script on root dir
+#              The script will return the table row example             
+############################################################
 
 import sys
 import argparse
