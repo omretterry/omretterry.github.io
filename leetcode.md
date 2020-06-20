@@ -24,7 +24,7 @@ ontop: true
 |编号|名称|难度|标签|操作|
 |------|------|------|------|------|
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|Easy|数学|[查看](./liner-data-structure/palindrome-number)|
-|125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|Easy||[查看](./liner-data-structure/valid-palindrome)|
+|125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|Easy|双指针|[查看](./liner-data-structure/valid-palindrome)|
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|Easy|位运算|[查看](./liner-data-structure/hamming-distance)|
 |1431|[拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)|Easy||[查看](./liner-data-structure/kids-with-the-greatest-number-of-candies)|
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|Easy||[查看](./liner-data-structure/longest-common-prefix)|
@@ -57,6 +57,7 @@ ontop: true
 | --- | --- | --- | --- |
 |198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|Easy|[查看](./dp/house-robber)|
 |837|[新21点](https://leetcode-cn.com/problems/new-21-game/)|Medium|[查看](./dp/new-21-game)|
+|1014|[最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)|Medium|[查看](./dp/best-sightseeing-pair)|
 |面试题46|[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|Medium|[查看](./dp/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)|
 
 

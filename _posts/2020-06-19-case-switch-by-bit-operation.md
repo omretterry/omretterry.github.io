@@ -27,6 +27,7 @@ Switch Case
 ```
 
 **Python用户的痛苦**
+
 python中的str类型是不能直接使用位运算操作的
 
 所以只能这样。。。
