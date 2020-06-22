@@ -15,6 +15,15 @@ ontop: true
 
 [&rarr; 点我前往](/leetcode/)
 
+### [周赛 #194](https://leetcode-cn.com/contest/weekly-contest-194)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/)||待定|
+|`5 分`\-[保证文件名唯一](https://leetcode-cn.com/problems/making-file-names-unique/)||待定|
+|`6 分`\-[避免洪水泛滥](https://leetcode-cn.com/problems/avoid-flood-in-the-city/)||待定|
+|`7 分`\-[找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)||待定|
+
 ### [周赛 #193](https://leetcode-cn.com/contest/weekly-contest-193)
 
 |内容|标签|操作|
@@ -29,8 +38,8 @@ ontop: true
 |内容|标签|操作|
 |---|---|---|
 |`3 分`\-[商品折扣后的最终价格](https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/)  ||[查看](./final-prices-with-a-special-discount-in-a-shop)|
-|`4 分`\-[子矩形查询](https://leetcode-cn.com/problems/subrectangle-queries/)  ||待定|
-|`5 分`\-[找两个和为目标值且不重叠的子数组](https://leetcode-cn.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)  ||待定|
+|`4 分`\-[子矩形查询](https://leetcode-cn.com/problems/subrectangle-queries/)||[查看](./subrectangle-queries)|
+|`5 分`\-[找两个和为目标值且不重叠的子数组](https://leetcode-cn.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)  |滑动窗口，前缀和|[查看](./find-two-non-overlapping-sub-arrays-each-with-target-sum)|
 |`7 分`\-[安排邮筒](https://leetcode-cn.com/problems/allocate-mailboxes/)||待定|
 
 ### [周赛 #192](https://leetcode-cn.com/contest/weekly-contest-192)
