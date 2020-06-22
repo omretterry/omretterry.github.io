@@ -33,6 +33,7 @@ ontop: true
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|Medium|递归， 回溯|[查看](./liner-data-structure/permutations)|
 |739|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|Medium|单调栈|[查看](./liner-data-structure/daily-temperatures)|
 |1300|[转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/)|Medium|二分法|[查看](./liner-data-structure/sum-of-mutated-array-closest-to-target)|
+|面试题 16.18|[模式匹配](https://leetcode-cn.com/problems/pattern-matching-lcci/)|Medium|递归，回溯|[查看](./liner-data-structure/pattern-matching-lcci)|
 
 
 
