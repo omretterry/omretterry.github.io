@@ -24,6 +24,7 @@ ontop: true
 |编号|名称|难度|标签|操作|
 |------|------|------|------|------|
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|Easy|数学|[查看](./liner-data-structure/palindrome-number)|
+|67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|Easy||[查看](./liner-data-structure/add-binary)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|Easy|双指针|[查看](./liner-data-structure/valid-palindrome)|
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|Easy|位运算|[查看](./liner-data-structure/hamming-distance)|
 |1431|[拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)|Easy||[查看](./liner-data-structure/kids-with-the-greatest-number-of-candies)|
