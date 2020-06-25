@@ -31,6 +31,7 @@ ontop: true
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|Easy||[查看](./liner-data-structure/longest-common-prefix)|
 |面试题.64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|Easy||[查看](./liner-data-structure/qiu-12n-lcof)|
 |238|[除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)|Medium||[查看](./liner-data-structure/product-of-array-except-self)|
+|16|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|Medium|双指针|[查看](./liner-data-structure/3sum-closest)|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|Medium|递归， 回溯|[查看](./liner-data-structure/permutations)|
 |739|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|Medium|单调栈|[查看](./liner-data-structure/daily-temperatures)|
 |1300|[转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/)|Medium|二分法|[查看](./liner-data-structure/sum-of-mutated-array-closest-to-target)|
@@ -58,6 +59,7 @@ ontop: true
 |  编号  | 名称 | 难度 | 操作 |
 | --- | --- | --- | --- |
 |198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|Easy|[查看](./dp/house-robber)|
+|139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|Medium|[查看](./dp/word-break)|
 |837|[新21点](https://leetcode-cn.com/problems/new-21-game/)|Medium|[查看](./dp/new-21-game)|
 |1014|[最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)|Medium|[查看](./dp/best-sightseeing-pair)|
 |面试题46|[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|Medium|[查看](./dp/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)|
