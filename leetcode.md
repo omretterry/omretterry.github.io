@@ -49,6 +49,7 @@ ontop: true
 |面试题29|[顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)|Easy||[查看](./nonliner-data-structure/shun-shi-zhen-da-yin-ju-zhen-lcof)|
 |990|[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|Medium|并查集|[查看](./nonliner-data-structure/satisfiability-of-equality-equations)|
 |743|[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|Medium|邻接表，Dijkstra算法|[查看](./nonliner-data-structure/network-delay-time)|
+|124|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|Hard|DFS，递归|[查看](./nonliner-data-structure/binary-tree-maximum-path-sum)|
 |126|[单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/)|Hard|邻接表，双向BFS|[查看](./nonliner-data-structure/word-ladder-ii)
 |1028|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)|Hard|递归|[查看](./nonliner-data-structure/recover-a-tree-from-preorder-traversal)|
 
