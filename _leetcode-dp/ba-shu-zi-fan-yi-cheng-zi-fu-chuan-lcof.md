@@ -14,7 +14,7 @@ layout: default
 * 如果第一个字母选了`1`，第二个可选`2`或`22`来翻译；如果第一个拿个`12`来翻译，第二个可以选`2`或`25`来翻译。
 * 明显的，我们选择形成了一个树状的结构，如下图
 
-![](/public/images/screenshot_1591692647014.png)
+![](/public/images/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof-1.png)
 
 * 树的最后的子节点的个数，即我们最终的可翻译的方法。
 * 可看到分支很多都是相同的，比如图中`2258`的子分支也出现在`258`的子分支当中，使用记忆化递归
@@ -55,7 +55,7 @@ class Solution:
 * 第`i-1`和第`i`个数子组成的数字，在`[10,25]`返回内才满足上述的第二种可能性
 * 通过上述思考我们可以得到**状态转移方程** ：
 
-![](/public/images/ba-shu-zi-fan-yi-cheng-zi-fu-chuan.png)
+![](/public/images/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-2.png)
 
 
 * `dp[0] = 1`, 为了符合通项，我们设置0的情况的值为1

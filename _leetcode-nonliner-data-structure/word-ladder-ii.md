@@ -19,8 +19,8 @@ layout: default
 
 如图：
 
-![](/public/images/126_fig1.png)
-![](/public/images/126_fig2.png)
+![](/public/images/word-ladder-ii-1.png)
+![](/public/images/word-ladder-ii-2.png)
 
 **待解决的问题**：
 

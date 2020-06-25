@@ -11,7 +11,7 @@ layout: default
 * value的范围在$$ [0, max(arr)] $$
 * 确定value后，可能sum不等于target。如何判断sum 最接近target。主要是target上下的方位。解决方案是，取上下的值进行一次比较。如下图，借用[李威威]([https://leetcode-cn.com/u/liweiwei1419/](https://leetcode-cn.com/u/liweiwei1419/))大佬的图:
 
-![](/public/images/screenshot_1592212728905.png)
+![](/public/images/sum-of-mutated-array-closest-to-target-1.png)
 
 很显然，这种情况，我们可以使用二分法来进行求解。
 

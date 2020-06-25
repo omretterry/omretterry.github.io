@@ -17,7 +17,7 @@ layout: default
 
 **分析**
 
-* 所有的可能性，就是全排列的组合数，如下：（图片来自[huahua](https://space.bilibili.com/9880352?from=search&seid=1276580199457930821)大佬，我是[huahua](https://space.bilibili.com/9880352?from=search&seid=1276580199457930821)大佬的小迷弟，大家可以关注一波）![](/public/images/screenshot_1591350866551.png)
+* 所有的可能性，就是全排列的组合数，如下：（图片来自[huahua](https://space.bilibili.com/9880352?from=search&seid=1276580199457930821)大佬，我是[huahua](https://space.bilibili.com/9880352?from=search&seid=1276580199457930821)大佬的小迷弟，大家可以关注一波）![](/public/images/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls-1.png)
 对于示例2，应该有$$ 4! $$种可能性，但是1，2重复，这边需要去重，一共就为12中可能，如上图。全排列+去重，联想到 [47\. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)。
 * 可以取出全排列的数量，然后在除以相同颜色的数量阶乘乘积，得到去重之后的排列组合数。
 * 接着从中遍历出满足题目要求的，颜色数量相同的情况，进行比较得出答案

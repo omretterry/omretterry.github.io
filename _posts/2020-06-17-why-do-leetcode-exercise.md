@@ -16,7 +16,7 @@ title: 为什么要刷Leetcode
 
 ##### 中途的放弃
 知道leetcode也有一年时间了吧，中间放弃过大半年，没有一次commit。
-![](/public/images/commit-info.png)
+![](/public/images/2020-06-17-why-do-leetcode-exercise-1.png)
 
 有时候思想上很矛盾，反正工作也用不太到。为什么要这么费劲去动脑经。
 
