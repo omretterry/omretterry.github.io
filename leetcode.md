@@ -36,7 +36,7 @@ ontop: true
 |739|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|Medium|单调栈|[查看](./liner-data-structure/daily-temperatures)|
 |1300|[转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/)|Medium|二分法|[查看](./liner-data-structure/sum-of-mutated-array-closest-to-target)|
 |面试题 16.18|[模式匹配](https://leetcode-cn.com/problems/pattern-matching-lcci/)|Medium|递归，回溯|[查看](./liner-data-structure/pattern-matching-lcci)|
-
+|41|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|Hard|哈希表|[查看](./liner-data-structure/first-missing-positive)|
 
 
 ##### 非线性数据结构（树，图，多维数组）
