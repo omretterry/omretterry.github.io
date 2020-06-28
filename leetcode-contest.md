@@ -15,6 +15,24 @@ ontop: true
 
 [&rarr; 点我前往](/leetcode/)
 
+### [周赛 #195](https://leetcode-cn.com/contest/weekly-contest-195)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[判断路径是否相交](https://leetcode-cn.com/problems/path-crossing/)||待定|
+|`4 分`\-[检查数组对是否可以被 k 整除](https://leetcode-cn.com/problems/check-if-array-pairs-are-divisible-by-k/)||待定|
+|`6 分`\-[满足条件的子序列数目](https://leetcode-cn.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)||待定|
+|`7 分`\-[满足不等式的最大值](https://leetcode-cn.com/problems/max-value-of-equation/)||待定|
+
+### [双周赛 #29](https://leetcode-cn.com/contest/biweekly-contest-29)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[去掉最低工资和最高工资后的工资平均值](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)||待定|
+|`4 分`\-[n 的第 k 个因子](https://leetcode-cn.com/problems/the-kth-factor-of-n/)||待定|
+|`5 分`\-[删掉一个元素以后全为 1 的最长子数组](https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element/)||待定|
+|`6 分`\-[并行课程 II](https://leetcode-cn.com/problems/parallel-courses-ii/)||待定|
+
 ### [周赛 #194](https://leetcode-cn.com/contest/weekly-contest-194)
 
 |内容|标签|操作|
