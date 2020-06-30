@@ -28,6 +28,7 @@ ontop: true
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|Easy|位运算|[查看](./liner-data-structure/hamming-distance)|
 |1431|[拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)|Easy||[查看](./liner-data-structure/kids-with-the-greatest-number-of-candies)|
 |面试题.64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|Easy||[查看](./liner-data-structure/qiu-12n-lcof)|
+|剑指 Offer 09|[用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)|Easy||[查看](./liner-data-structure/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)|
 |16|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|Medium|双指针|[查看](./liner-data-structure/3sum-closest)|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|Medium|递归， 回溯|[查看](./liner-data-structure/permutations)|
 |209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|Medium|前缀和，双指针（滑动窗口）|[查看](./liner-data-structure/minimum-size-subarray-sum)|

@@ -58,7 +58,7 @@ ontop: true
 |`3 分`\-[商品折扣后的最终价格](https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/)  ||[查看](./final-prices-with-a-special-discount-in-a-shop)|
 |`4 分`\-[子矩形查询](https://leetcode-cn.com/problems/subrectangle-queries/)||[查看](./subrectangle-queries)|
 |`5 分`\-[找两个和为目标值且不重叠的子数组](https://leetcode-cn.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)  |滑动窗口，前缀和|[查看](./find-two-non-overlapping-sub-arrays-each-with-target-sum)|
-|`7 分`\-[安排邮筒](https://leetcode-cn.com/problems/allocate-mailboxes/)||待定|
+|`7 分`\-[安排邮筒](https://leetcode-cn.com/problems/allocate-mailboxes/)|动态规划|[查看](./allocate-mailboxes)|
 
 ### [周赛 #192](https://leetcode-cn.com/contest/weekly-contest-192)
 
