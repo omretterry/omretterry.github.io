@@ -47,8 +47,8 @@ ontop: true
 |内容|标签|操作|
 |---|---|---|
 |`3 分`\-[一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|前缀和|[查看](./running-sum-of-1d-array)|
-|`4 分`\-[不同整数的最少数目](https://leetcode-cn.com/problems/least-number-of-unique-integers-after-k-removals/)  ||待定|
-|`5 分`\-[制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) ||待定| 
+|`4 分`\-[不同整数的最少数目](https://leetcode-cn.com/problems/least-number-of-unique-integers-after-k-removals/)  ||[查看](./least-number-of-unique-integers-after-k-removals)|
+|`5 分`\-[制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) |二分|[查看](./minimum-number-of-days-to-make-m-bouquets)| 
 |`6 分`\-[树节点的第 K 个祖先](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node/)||待定|
 
 ### [双周赛 #28](https://leetcode-cn.com/contest/biweekly-contest-28)
