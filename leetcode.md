@@ -48,6 +48,7 @@ ontop: true
 |111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|Easy|BFS|[查看](./nonliner-data-structure/minimum-depth-of-binary-tree)|
 |965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)|Easy|DFS|[查看](./nonliner-data-structure/univalued-binary-tree)|
 |面试题29|[顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)|Easy||[查看](./nonliner-data-structure/shun-shi-zhen-da-yin-ju-zhen-lcof)|
+|378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|二分|[查看](./nonliner-data-structure/kth-smallest-element-in-a-sorted-matrix)|
 |990|[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|Medium|并查集|[查看](./nonliner-data-structure/satisfiability-of-equality-equations)|
 |743|[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|Medium|邻接表，Dijkstra算法|[查看](./nonliner-data-structure/network-delay-time)|
 |124|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|Hard|DFS，递归|[查看](./nonliner-data-structure/binary-tree-maximum-path-sum)|
