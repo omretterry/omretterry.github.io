@@ -62,6 +62,7 @@ ontop: true
 | --- | --- | --- | --- |
 |198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|Easy|[查看](./dp/house-robber)|
 |139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|Medium|[查看](./dp/word-break)|
+|718|[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|Medium|[查看](./dp/maximum-length-of-repeated-subarray)|
 |837|[新21点](https://leetcode-cn.com/problems/new-21-game/)|Medium|[查看](./dp/new-21-game)|
 |1014|[最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)|Medium|[查看](./dp/best-sightseeing-pair)|
 |面试题46|[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|Medium|[查看](./dp/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)|
