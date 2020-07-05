@@ -15,6 +15,15 @@ ontop: true
 
 [&rarr; 点我前往](/leetcode/)
 
+### [周赛 #196](https://leetcode-cn.com/contest/weekly-contest-196)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[判断能否形成等差数列](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/)||待定|
+|`4 分`\-[所有蚂蚁掉下来前的最后一刻](https://leetcode-cn.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)||待定|
+|`5 分`\-[统计全 1 子矩形](https://leetcode-cn.com/problems/count-submatrices-with-all-ones/)||待定|
+|`7 分`\-[最多 K 次交换相邻数位后得到的最小整数](https://leetcode-cn.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/)||待定|
+
 ### [周赛 #195](https://leetcode-cn.com/contest/weekly-contest-195)
 
 |内容|标签|操作|
