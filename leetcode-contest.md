@@ -37,8 +37,8 @@ ontop: true
 
 |内容|标签|操作|
 |---|---|---|
-|`3 分`\-[去掉最低工资和最高工资后的工资平均值](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)||待定|
-|`4 分`\-[n 的第 k 个因子](https://leetcode-cn.com/problems/the-kth-factor-of-n/)||待定|
+|`3 分`\-[去掉最低工资和最高工资后的工资平均值](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)||[查看](./average-salary-excluding-the-minimum-and-maximum-salary)|
+|`4 分`\-[n 的第 k 个因子](https://leetcode-cn.com/problems/the-kth-factor-of-n/)||[查看](./the-kth-factor-of-n)|
 |`5 分`\-[删掉一个元素以后全为 1 的最长子数组](https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element/)||待定|
 |`6 分`\-[并行课程 II](https://leetcode-cn.com/problems/parallel-courses-ii/)||待定|
 
@@ -46,8 +46,8 @@ ontop: true
 
 |内容|标签|操作|
 |---|---|---|
-|`3 分`\-[数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/)||待定|
-|`5 分`\-[保证文件名唯一](https://leetcode-cn.com/problems/making-file-names-unique/)||待定|
+|`3 分`\-[数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/)||[查看](./xor-operation-in-an-array)|
+|`5 分`\-[保证文件名唯一](https://leetcode-cn.com/problems/making-file-names-unique/)|哈希表|[查看](./making-file-names-unique)|
 |`6 分`\-[避免洪水泛滥](https://leetcode-cn.com/problems/avoid-flood-in-the-city/)||待定|
 |`7 分`\-[找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)||待定|
 
