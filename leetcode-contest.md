@@ -19,7 +19,7 @@ ontop: true
 
 |内容|标签|操作|
 |---|---|---|
-|`3 分`\-[判断能否形成等差数列](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/)||待定|
+|`3 分`\-[判断能否形成等差数列](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/)||[查看](./can-make-arithmetic-progression-from-sequence)|
 |`4 分`\-[所有蚂蚁掉下来前的最后一刻](https://leetcode-cn.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)||待定|
 |`5 分`\-[统计全 1 子矩形](https://leetcode-cn.com/problems/count-submatrices-with-all-ones/)||待定|
 |`7 分`\-[最多 K 次交换相邻数位后得到的最小整数](https://leetcode-cn.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/)||待定|
@@ -29,7 +29,7 @@ ontop: true
 |内容|标签|操作|
 |---|---|---|
 |`3 分`\-[判断路径是否相交](https://leetcode-cn.com/problems/path-crossing/)||[查看](./path-crossing)|
-|`4 分`\-[检查数组对是否可以被 k 整除](https://leetcode-cn.com/problems/check-if-array-pairs-are-divisible-by-k/)||待定|
+|`4 分`\-[检查数组对是否可以被 k 整除](https://leetcode-cn.com/problems/check-if-array-pairs-are-divisible-by-k/)||[查看](./check-if-array-pairs-are-divisible-by-k)|
 |`6 分`\-[满足条件的子序列数目](https://leetcode-cn.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)||待定|
 |`7 分`\-[满足不等式的最大值](https://leetcode-cn.com/problems/max-value-of-equation/)||待定|
 
