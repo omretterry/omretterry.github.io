@@ -48,7 +48,7 @@ ontop: true
 |---|---|---|
 |`3 分`\-[数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/)||[查看](./xor-operation-in-an-array)|
 |`5 分`\-[保证文件名唯一](https://leetcode-cn.com/problems/making-file-names-unique/)|哈希表|[查看](./making-file-names-unique)|
-|`6 分`\-[避免洪水泛滥](https://leetcode-cn.com/problems/avoid-flood-in-the-city/)||待定|
+|`6 分`\-[避免洪水泛滥](https://leetcode-cn.com/problems/avoid-flood-in-the-city/)|贪心，二分|[查看](./avoid-flood-in-the-city)|
 |`7 分`\-[找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)||待定|
 
 ### [周赛 #193](https://leetcode-cn.com/contest/weekly-contest-193)
