@@ -47,6 +47,7 @@ ontop: true
 | --- | --- | --- | --- | --- | 
 |108|[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|Easy|分治，递归| [查看](./nonliner-data-structure/convert-sorted-array-to-binary-search-tree) |
 |111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|Easy|BFS|[查看](./nonliner-data-structure/minimum-depth-of-binary-tree)|
+|112|[路径总和](https://leetcode-cn.com/problems/path-sum/)|Easy|DFS|[查看](./nonliner-data-structure/path-sum)|
 |965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)|Easy|DFS|[查看](./nonliner-data-structure/univalued-binary-tree)|
 |面试题29|[顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)|Easy||[查看](./nonliner-data-structure/shun-shi-zhen-da-yin-ju-zhen-lcof)|
 |378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|二分|[查看](./nonliner-data-structure/kth-smallest-element-in-a-sorted-matrix)|
@@ -63,6 +64,7 @@ ontop: true
 |  编号  | 名称 | 难度 | 操作 |
 | --- | --- | --- | --- |
 |198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|Easy|[查看](./dp/house-robber)|
+|62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|Medium|[查看](./dp/unique-paths)|
 |139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|Medium|[查看](./dp/word-break)|
 |718|[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|Medium|[查看](./dp/maximum-length-of-repeated-subarray)|
 |837|[新21点](https://leetcode-cn.com/problems/new-21-game/)|Medium|[查看](./dp/new-21-game)|
