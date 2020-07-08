@@ -59,7 +59,7 @@ class Solution:
         return []
       if shorter is longer:
         return [shorter * k]
-      dp = [] * k
+      dp = [0] * (k + 1)
       dp[0] = shorter * k
       for i in range(1,k+1):
         dp[i] = dp[i-1] + longer - shorter
