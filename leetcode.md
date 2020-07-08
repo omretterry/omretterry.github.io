@@ -64,6 +64,7 @@ ontop: true
 |  编号  | 名称 | 难度 | 操作 |
 | --- | --- | --- | --- |
 |198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|Easy|[查看](./dp/house-robber)|
+|面试题 16.11|[跳水板](https://leetcode-cn.com/problems/diving-board-lcci/)|Easy|[查看](./dp/diving-board-lcci)|
 |62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|Medium|[查看](./dp/unique-paths)|
 |63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|Medium|[查看](./dp/unique-paths-ii)|
 |139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|Medium|[查看](./dp/word-break)|
