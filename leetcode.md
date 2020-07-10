@@ -50,6 +50,7 @@ ontop: true
 |112|[路径总和](https://leetcode-cn.com/problems/path-sum/)|Easy|DFS|[查看](./nonliner-data-structure/path-sum)|
 |965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)|Easy|DFS|[查看](./nonliner-data-structure/univalued-binary-tree)|
 |面试题29|[顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)|Easy||[查看](./nonliner-data-structure/shun-shi-zhen-da-yin-ju-zhen-lcof)|
+|208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|Medium|Trie|[查看](./nonliner-data-structure/implement-trie-prefix-tree)|
 |378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|二分|[查看](./nonliner-data-structure/kth-smallest-element-in-a-sorted-matrix)|
 |990|[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|Medium|并查集|[查看](./nonliner-data-structure/satisfiability-of-equality-equations)|
 |743|[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|Medium|邻接表，Dijkstra算法|[查看](./nonliner-data-structure/network-delay-time)|
@@ -61,19 +62,20 @@ ontop: true
 ##### 动态规划
 
 
-|  编号  | 名称 | 难度 | 操作 |
-| --- | --- | --- | --- |
-|198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|Easy|[查看](./dp/house-robber)|
-|面试题 16.11|[跳水板](https://leetcode-cn.com/problems/diving-board-lcci/)|Easy|[查看](./dp/diving-board-lcci)|
-|62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|Medium|[查看](./dp/unique-paths)|
-|63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|Medium|[查看](./dp/unique-paths-ii)|
-|139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|Medium|[查看](./dp/word-break)|
-|718|[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|Medium|[查看](./dp/maximum-length-of-repeated-subarray)|
-|837|[新21点](https://leetcode-cn.com/problems/new-21-game/)|Medium|[查看](./dp/new-21-game)|
-|1014|[最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)|Medium|[查看](./dp/best-sightseeing-pair)|
-|面试题46|[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|Medium|[查看](./dp/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)|
-|10|[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)|Hard|[查看](./dp/regular-expression-matching)|
-|44|[通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)|Hard|[查看](./dp/wildcard-matching)|
+|  编号  | 名称 | 难度 | 标签 | 操作 |
+| --- | --- | --- | --- | --- |
+|198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|Easy||[查看](./dp/house-robber)|
+|面试题 16.11|[跳水板](https://leetcode-cn.com/problems/diving-board-lcci/)|Easy||[查看](./dp/diving-board-lcci)|
+|62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|Medium||[查看](./dp/unique-paths)|
+|63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|Medium||[查看](./dp/unique-paths-ii)|
+|139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|Medium|记忆化递归|[查看](./dp/word-break)|
+|718|[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|Medium||[查看](./dp/maximum-length-of-repeated-subarray)|
+|837|[新21点](https://leetcode-cn.com/problems/new-21-game/)|Medium||[查看](./dp/new-21-game)|
+|1014|[最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)|Medium||[查看](./dp/best-sightseeing-pair)|
+|面试题46|[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|Medium||[查看](./dp/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)|
+|面试题 17.13|[恢复空格](https://leetcode-cn.com/problems/re-space-lcci/)|Medium|Trie|[查看](./dp/re-space-lcci)|
+|10|[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)|Hard||[查看](./dp/regular-expression-matching)|
+|44|[通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)|Hard||[查看](./dp/wildcard-matching)|
 
 
 ##### 其他
