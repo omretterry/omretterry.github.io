@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记
+## Leetcode 刷题笔记（已收录47题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -39,6 +39,7 @@ ontop: true
 |1300|[转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/)|Medium|二分法|[查看](./liner-data-structure/sum-of-mutated-array-closest-to-target)|
 |面试题 16.18|[模式匹配](https://leetcode-cn.com/problems/pattern-matching-lcci/)|Medium|递归，回溯|[查看](./liner-data-structure/pattern-matching-lcci)|
 |41|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|Hard|哈希表|[查看](./liner-data-structure/first-missing-positive)|
+|315|[计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|Hard|归并排序，索引数组|[查看](./liner-data-structure/count-of-smaller-numbers-after-self)|
 
 
 ##### 非线性数据结构（树，图，多维数组）
