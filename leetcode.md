@@ -25,6 +25,7 @@ ontop: true
 |------|------|------|------|------|
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|Easy||[查看](./liner-data-structure/longest-common-prefix)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|Easy|双指针|[查看](./liner-data-structure/valid-palindrome)|
+|350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|Easy|哈希表|[查看](./liner-data-structure/intersection-of-two-arrays-ii)|
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|Easy|位运算|[查看](./liner-data-structure/hamming-distance)|
 |1431|[拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)|Easy||[查看](./liner-data-structure/kids-with-the-greatest-number-of-candies)|
 |面试题.64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|Easy||[查看](./liner-data-structure/qiu-12n-lcof)|
