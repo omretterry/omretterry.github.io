@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录47题）
+## Leetcode 刷题笔记（已收录48题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -70,6 +70,7 @@ ontop: true
 |面试题 16.11|[跳水板](https://leetcode-cn.com/problems/diving-board-lcci/)|Easy||[查看](./dp/diving-board-lcci)|
 |62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|Medium||[查看](./dp/unique-paths)|
 |63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|Medium||[查看](./dp/unique-paths-ii)|
+|120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|Medium||[查看](./dp/triangle)|
 |139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|Medium|记忆化递归|[查看](./dp/word-break)|
 |309|[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium||[查看](./dp/best-time-to-buy-and-sell-stock-with-cooldown)|
 |718|[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|Medium||[查看](./dp/maximum-length-of-repeated-subarray)|
