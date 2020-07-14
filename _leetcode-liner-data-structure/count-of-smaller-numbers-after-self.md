@@ -48,3 +48,58 @@ class Solution:
 * 为了解决上面的问题，我们需要一个数组`indexes`用来记录所有元素的索引
 * `indexes`的作用是，在排序的过程中，我们交换的不是数字，是下标。只是交换的时候比较的是原来的数字
 * 也就是说，我们使用`nums[indexes[i]]`和`nums[indexes[j]]`的比较结果来决定`indexes[i]`和`indexes[j]`的先后顺序
+
+**补充说明**
+
+* 刚接触这题，索引数组的使用想了很久，这部分还是有点绕的
+* 首先我们为什么要使用索引数组？因为，如果我们直接用MergeSort的话，数字的位置是会发生改变的。当我们求出了某个数右面的逆序数的话，我们无法定位他在解中的位置。所以我们要定义一个索引数组，来做一个映射
+* **要注意的是**当合并操作时，当`right`中的当前数比`left`的数小是，我们需要使用一个计数变量记录一下，`right`后面的数都要加上这个计数，因为`right`中是单调的，后面的数比前面的大，如果一个数比前面的数小，那必然比后面的小
+
+以下视屏，讲的很清晰，看两遍就能理解了
+
+**参考** [happygrilzt](https://happygirlzt.com/)
+> [LeetCode 315 Count of Smaller Numbers After Self 中文解释 Chinese Version](https://www.youtube.com/watch?v=AeyUmjk4HGQ) 
+
+以上，尝试写一下代码，AC！
+
+#### 代码
+python3
+```python
+class Solution:
+  def merge(self,nums, indexes, left, right, res):
+    i = 0
+    j = 0
+    r = []
+    rightCount = 0
+    while i < len(left) and j < len(right):
+      if nums[left[i]] <= nums[right[j]]:
+        res[left[i]] += rightCount
+        r.append(left[i])
+        i += 1
+      else:
+        rightCount += 1
+        r.append(right[j])
+        j += 1
+    while i < len(left):
+      res[left[i]] += rightCount
+      r.append(left[i])
+      i += 1
+    while j < len(right):
+      r.append(right[j])
+      j += 1
+    return r
+
+  def mergeSort(self,nums, indexes, start ,end, res):
+    if end-start <= 1:
+      return indexes[start:end]
+    mid = start + (end-start) // 2
+    left = self.mergeSort(nums, indexes, start ,mid, res)
+    right = self.mergeSort(nums, indexes, mid , end, res)
+    return self.merge(nums,indexes,left,right, res)
+
+  def countSmaller(self, nums: List[int]) -> List[int]:
+    indexes = [ i for i in range(len(nums)) ]
+    res = [ 0 for i in range(len(nums)) ]
+    r = self.mergeSort(nums,indexes, 0,len(nums), res) 
+    return res
+```
