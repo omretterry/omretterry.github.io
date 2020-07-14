@@ -19,7 +19,7 @@ ontop: true
 
 |内容|标签|操作|
 |---|---|---|
-|`3 分`\-[好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/)||待定|
+|`3 分`\-[好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/)|暴力，哈希表|[查看](./number-of-good-pairs)|
 |`4 分`\-[仅含 1 的子串数](https://leetcode-cn.com/problems/number-of-substrings-with-only-1s/)||待定|
 |`5 分`\-[概率最大的路径](https://leetcode-cn.com/problems/path-with-maximum-probability/)||待定|
 |`7 分`\-[服务中心的最佳位置](https://leetcode-cn.com/problems/best-position-for-a-service-centre/)||待定|
