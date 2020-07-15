@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录48题）
+## Leetcode 刷题笔记（已收录49题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -12,7 +12,6 @@ ontop: true
 > * 题目名称 &rarr; leetcode对应题目页面
 > * 查看按钮 &rarr; 对应解题
 
-##### 周赛专题
 
 [&rarr; 点我前往](/leetcode-contest/)
 
@@ -70,6 +69,7 @@ ontop: true
 |面试题 16.11|[跳水板](https://leetcode-cn.com/problems/diving-board-lcci/)|Easy||[查看](./dp/diving-board-lcci)|
 |62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|Medium||[查看](./dp/unique-paths)|
 |63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|Medium||[查看](./dp/unique-paths-ii)|
+|96|[不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)|Medium||[查看](./dp/unique-binary-search-trees)|
 |120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|Medium||[查看](./dp/triangle)|
 |139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|Medium|记忆化递归|[查看](./dp/word-break)|
 |309|[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium||[查看](./dp/best-time-to-buy-and-sell-stock-with-cooldown)|
