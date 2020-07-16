@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录49题）
+## Leetcode 刷题笔记（已收录50题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -12,12 +12,13 @@ ontop: true
 > * 题目名称 &rarr; leetcode对应题目页面
 > * 查看按钮 &rarr; 对应解题
 
+##### Terry Li的Leetcode周赛专题
 
 [&rarr; 点我前往](/leetcode-contest/)
 
 ### 题目列表
 
-##### 线性数据结构（数组，栈，队列，链表）
+##### 线性数据结构（数组，栈，队列，链表）(17题)
 
 
 |编号|名称|难度|标签|操作|
@@ -41,7 +42,7 @@ ontop: true
 |315|[计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|Hard|归并排序，索引数组|[查看](./liner-data-structure/count-of-smaller-numbers-after-self)|
 
 
-##### 非线性数据结构（树，图，多维数组）
+##### 非线性数据结构（树，图，多维数组）(12题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -60,7 +61,7 @@ ontop: true
 |1028|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)|Hard|递归|[查看](./nonliner-data-structure/recover-a-tree-from-preorder-traversal)|
 
 
-##### 动态规划
+##### 动态规划 (16题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -80,9 +81,10 @@ ontop: true
 |面试题 17.13|[恢复空格](https://leetcode-cn.com/problems/re-space-lcci/)|Medium|Trie|[查看](./dp/re-space-lcci)|
 |10|[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)|Hard||[查看](./dp/regular-expression-matching)|
 |44|[通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)|Hard||[查看](./dp/wildcard-matching)|
+|174|[地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)|Hard|记忆化递归|[查看](./dp/dungeon-game)|
 
 
-##### 其他
+##### 其他 (5题)
 
 
 |  编号  | 名称 | 难度 | 操作 |
