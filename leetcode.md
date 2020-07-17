@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录50题）
+## Leetcode 刷题笔记（已收录51题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -42,7 +42,7 @@ ontop: true
 |315|[计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|Hard|归并排序，索引数组|[查看](./liner-data-structure/count-of-smaller-numbers-after-self)|
 
 
-##### 非线性数据结构（树，图，多维数组）(12题)
+##### 非线性数据结构（树，图，多维数组）(13题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -56,6 +56,7 @@ ontop: true
 |378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|二分|[查看](./nonliner-data-structure/kth-smallest-element-in-a-sorted-matrix)|
 |990|[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|Medium|并查集|[查看](./nonliner-data-structure/satisfiability-of-equality-equations)|
 |743|[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|Medium|邻接表，Dijkstra算法|[查看](./nonliner-data-structure/network-delay-time)|
+|785|[判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)|Medium|染色法|[查看](./nonliner-data-structure/is-graph-bipartite)|
 |124|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|Hard|DFS，递归|[查看](./nonliner-data-structure/binary-tree-maximum-path-sum)|
 |126|[单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/)|Hard|邻接表，双向BFS|[查看](./nonliner-data-structure/word-ladder-ii)
 |1028|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)|Hard|递归|[查看](./nonliner-data-structure/recover-a-tree-from-preorder-traversal)|
