@@ -15,7 +15,17 @@ ontop: true
 
 [&rarr; 点我前往](/leetcode/)
 
-### [周赛 #197](https://leetcode-cn.com/contest/weekly-contest-196)
+### [周赛 #198](https://leetcode-cn.com/contest/weekly-contest-198)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[换酒问题](https://leetcode-cn.com/problems/water-bottles/)||待定|
+|`5 分`\-[子树中标签相同的节点数](https://leetcode-cn.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)||待定|
+|`6 分`\-[最多的不重叠子字符串](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-substrings/)||待定|
+|`7 分`\-[找到最接近目标值的函数值](https://leetcode-cn.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/)||待定|
+
+
+### [周赛 #197](https://leetcode-cn.com/contest/weekly-contest-197)
 
 |内容|标签|操作|
 |---|---|---|
