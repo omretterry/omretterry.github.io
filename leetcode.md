@@ -26,6 +26,7 @@ ontop: true
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|Easy||[查看](./liner-data-structure/longest-common-prefix)|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|Easy|二分搜索|[查看](./liner-data-structure/search-insert-position)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|Easy|双指针|[查看](./liner-data-structure/valid-palindrome)|
+|167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|Easy|二分查找，双指针|[查看](./liner-data-structure/two-sum-ii-input-array-is-sorted)|
 |350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|Easy|哈希表|[查看](./liner-data-structure/intersection-of-two-arrays-ii)|
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|Easy|位运算|[查看](./liner-data-structure/hamming-distance)|
 |1431|[拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)|Easy||[查看](./liner-data-structure/kids-with-the-greatest-number-of-candies)|
