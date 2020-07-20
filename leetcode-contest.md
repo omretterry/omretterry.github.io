@@ -38,7 +38,7 @@ ontop: true
 
 |内容|标签|操作|
 |---|---|---|
-|`3 分`\-[转变日期格式](https://leetcode-cn.com/problems/reformat-date/)||待定|
+|`3 分`\-[转变日期格式](https://leetcode-cn.com/problems/reformat-date/)||[查看](./reformat-date)|
 |`4 分`\-[子数组和排序后的区间和](https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums/)||待定|
 |`5 分`\-[三次操作后最大值与最小值的最小差](https://leetcode-cn.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)||待定|
 |`6 分`\-[石子游戏 IV](https://leetcode-cn.com/problems/stone-game-iv/)||待定|
@@ -67,7 +67,7 @@ ontop: true
 |---|---|---|
 |`3 分`\-[去掉最低工资和最高工资后的工资平均值](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)||[查看](./average-salary-excluding-the-minimum-and-maximum-salary)|
 |`4 分`\-[n 的第 k 个因子](https://leetcode-cn.com/problems/the-kth-factor-of-n/)||[查看](./the-kth-factor-of-n)|
-|`5 分`\-[删掉一个元素以后全为 1 的最长子数组](https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element/)||待定|
+|`5 分`\-[删掉一个元素以后全为 1 的最长子数组](https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element/)||[查看](./longest-subarray-of-1s-after-deleting-one-element)|
 |`6 分`\-[并行课程 II](https://leetcode-cn.com/problems/parallel-courses-ii/)||待定|
 
 ### [周赛 #194](https://leetcode-cn.com/contest/weekly-contest-194)

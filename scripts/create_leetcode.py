@@ -75,7 +75,10 @@ title: {args.title}
         f.close()
         print("create file success!!!")
         print("-----------")
-        print(f"|{args.id}|[{args.title}](https://leetcode-cn.com/problems/{args.name}/)|{level}||[查看](./{path}/{args.name})|")
+        if path != "contest":
+            print(f"|{args.id}|[{args.title}](https://leetcode-cn.com/problems/{args.name}/)|{level}||[查看](./{path}/{args.name})|")
+        else:
+            print(f"|{args.id}|[{args.title}](https://leetcode-cn.com/problems/{args.name}/)|{level}||[查看](./{args.name})|")
         print("-----------")
 
     except Exception as e:
