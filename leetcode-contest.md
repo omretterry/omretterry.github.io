@@ -58,7 +58,7 @@ ontop: true
 |---|---|---|
 |`3 分`\-[判断路径是否相交](https://leetcode-cn.com/problems/path-crossing/)||[查看](./path-crossing)|
 |`4 分`\-[检查数组对是否可以被 k 整除](https://leetcode-cn.com/problems/check-if-array-pairs-are-divisible-by-k/)||[查看](./check-if-array-pairs-are-divisible-by-k)|
-|`6 分`\-[满足条件的子序列数目](https://leetcode-cn.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)||待定|
+|`6 分`\-[满足条件的子序列数目](https://leetcode-cn.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)|双指针|[查看](./number-of-subsequences-that-satisfy-the-given-sum-condition)|
 |`7 分`\-[满足不等式的最大值](https://leetcode-cn.com/problems/max-value-of-equation/)||待定|
 
 ### [双周赛 #29](https://leetcode-cn.com/contest/biweekly-contest-29)
