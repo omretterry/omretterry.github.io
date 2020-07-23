@@ -66,7 +66,7 @@ ontop: true
 |1028|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)|Hard|递归|[查看](./nonliner-data-structure/recover-a-tree-from-preorder-traversal)|
 
 
-##### 动态规划 (18题)
+##### 动态规划 (19题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -75,6 +75,7 @@ ontop: true
 |面试题 16.11|[跳水板](https://leetcode-cn.com/problems/diving-board-lcci/)|Easy||[查看](./dp/diving-board-lcci)|
 |62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|Medium||[查看](./dp/unique-paths)|
 |63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|Medium||[查看](./dp/unique-paths-ii)|
+|64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|Medium||[查看](./dp/minimum-path-sum)|
 |96|[不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)|Medium||[查看](./dp/unique-binary-search-trees)|
 |120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|Medium||[查看](./dp/triangle)|
 |139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|Medium|记忆化递归|[查看](./dp/word-break)|
