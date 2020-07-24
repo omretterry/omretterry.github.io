@@ -100,6 +100,6 @@ ontop: true
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|Easy|[查看](./other/palindrome-number)|
 |67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|Easy|[查看](./other/add-binary)|
 |171|[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)|Easy|[查看](./other/excel-sheet-column-number)|
-|1025|[除数博弈](https://leetcode-cn.com/problems/divisor-game/)|Easy|数学|[查看](./other/divisor-game)|
+|1025|[除数博弈](https://leetcode-cn.com/problems/divisor-game/)|Easy|[查看](./other/divisor-game)|
 |29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|Medium|[查看](./other/divide-two-integers)|
 |166|[分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)|Medium|[查看](./other/fraction-to-recurring-decimal)|
