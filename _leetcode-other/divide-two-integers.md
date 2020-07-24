@@ -35,9 +35,9 @@ class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
         if divisor == 0:
             return0
-        if dividend == (0 - (2 << 30)) and divisor == \-1:
+        if dividend == (0 - (2 << 30)) and divisor == -1:
             return (2 << 30) - 1
-        if (dividend > 0and divisor > 0) or (dividend < 0and divisor < 0):
+        if (dividend > 0 and divisor > 0) or (dividend < 0 and divisor < 0):
             tag = 1
         else:
             tag = -1
@@ -52,5 +52,5 @@ class Solution:
                 a += 1
             if a >= 0:
                 c += (2 << a - 1) - 1
-        return c if tag == 1else0 - c
+        return c if tag == 1 else 0 - c
 ```
