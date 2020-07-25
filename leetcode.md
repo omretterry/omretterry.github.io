@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录58题）
+## Leetcode 刷题笔记（已收录59题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -66,7 +66,7 @@ ontop: true
 |1028|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)|Hard|递归|[查看](./nonliner-data-structure/recover-a-tree-from-preorder-traversal)|
 
 
-##### 动态规划 (19题)
+##### 动态规划 (20题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -90,6 +90,7 @@ ontop: true
 |97|[交错字符串](https://leetcode-cn.com/problems/interleaving-string/)|Hard||[查看](./dp/interleaving-string)|
 |174|[地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)|Hard|记忆化递归|[查看](./dp/dungeon-game)|
 |312|[戳气球](https://leetcode-cn.com/problems/burst-balloons/)|Hard||[查看](./dp/burst-balloons)|
+|410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分|[查看](./dp/split-array-largest-sum)|
 
 
 ##### 其他 (6题)
