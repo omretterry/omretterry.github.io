@@ -46,3 +46,39 @@ class Solution:
         j = mid    
     return i
 ```
+
+###方法二（动态规划）(python3 TLE)
+#### 思路
+
+这道题也可以考虑动态规划的方式求解
+
+* 设置`dp`数组，`dp[k][i]`表示分成`k-1`组（应为从`0`开始）到坐标`i`为止的最小的最大值
+* 那么对于`dp[k][i]`来说，最后一组的可能是`[x:i]`,`x`的范围为`[1...i]`。取这些可能性中的结果的最小值就是我们想要的答案，如下图：
+![](/public/images/split-array-largest-sum-1.png)
+* basecase：当`k=0`时，就是分一个组，`dp[0][i]`就是前缀和数组
+
+以上，尝试写一下代码，TLE
+
+#### 代码
+python3
+```python
+class Solution:
+    def splitArray(self, nums: List[int], m: int) -> int:
+      dp = [[math.inf for _ in range(len(nums))] for _ in range(m)]
+      
+      pre = 0
+      presum = [0] * (len(nums) + 1)
+      for i,v in enumerate(nums):
+        dp[0][i] = pre + v
+        presum[i+1] = dp[0][i]
+        pre = dp[0][i]
+
+      for k in range(1,m):
+        for i in range(1,len(nums)):
+          for j in range(1,i+1):
+            dp[k][i] = min(dp[k][i], max(dp[k-1][j-1], presum[i+1] - presum[j]))
+
+      return dp[m-1][-1]
+```
+
+据说用`C++`使用`动态规划`是可以AC的，未做尝试。

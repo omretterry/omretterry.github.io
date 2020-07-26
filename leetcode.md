@@ -18,7 +18,7 @@ ontop: true
 
 ### 题目列表
 
-##### 线性数据结构（数组，栈，队列，链表）(20题)
+##### 线性数据结构（数组，栈，队列，链表）(21题)
 
 
 |编号|名称|难度|标签|操作|
@@ -43,6 +43,7 @@ ontop: true
 |面试题 16.18|[模式匹配](https://leetcode-cn.com/problems/pattern-matching-lcci/)|Medium|递归，回溯|[查看](./liner-data-structure/pattern-matching-lcci)|
 |41|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|Hard|哈希表|[查看](./liner-data-structure/first-missing-positive)|
 |315|[计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|Hard|归并排序，索引数组|[查看](./liner-data-structure/count-of-smaller-numbers-after-self)|
+|410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分，动态规划|[查看](./liner-data-structure/split-array-largest-sum)|
 
 
 ##### 非线性数据结构（树，图，多维数组）(14题)
@@ -66,7 +67,7 @@ ontop: true
 |1028|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)|Hard|递归|[查看](./nonliner-data-structure/recover-a-tree-from-preorder-traversal)|
 
 
-##### 动态规划 (20题)
+##### 动态规划 (19题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -90,7 +91,6 @@ ontop: true
 |97|[交错字符串](https://leetcode-cn.com/problems/interleaving-string/)|Hard||[查看](./dp/interleaving-string)|
 |174|[地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)|Hard|记忆化递归|[查看](./dp/dungeon-game)|
 |312|[戳气球](https://leetcode-cn.com/problems/burst-balloons/)|Hard||[查看](./dp/burst-balloons)|
-|410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分|[查看](./dp/split-array-largest-sum)|
 
 
 ##### 其他 (6题)
