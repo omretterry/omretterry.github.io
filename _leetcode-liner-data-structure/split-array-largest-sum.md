@@ -47,7 +47,7 @@ class Solution:
     return i
 ```
 
-###方法二（动态规划）(python3 TLE)
+### 方法二（动态规划）(python3 TLE)
 #### 思路
 
 这道题也可以考虑动态规划的方式求解
