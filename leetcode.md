@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录60题）
+## Leetcode 刷题笔记（已收录61题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -47,7 +47,7 @@ ontop: true
 |410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分，动态规划|[查看](./liner-data-structure/split-array-largest-sum)|
 
 
-##### 非线性数据结构（树，图，多维数组）(14题)
+##### 非线性数据结构（树，图，多维数组）(15题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -65,6 +65,7 @@ ontop: true
 |785|[判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)|Medium|染色法|[查看](./nonliner-data-structure/is-graph-bipartite)|
 |124|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|Hard|DFS，递归|[查看](./nonliner-data-structure/binary-tree-maximum-path-sum)|
 |126|[单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/)|Hard|邻接表，双向BFS|[查看](./nonliner-data-structure/word-ladder-ii)
+|329|[矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|Hard|DFS，记忆化递归|[查看](./nonliner-data-structure/longest-increasing-path-in-a-matrix)|
 |1028|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)|Hard|递归|[查看](./nonliner-data-structure/recover-a-tree-from-preorder-traversal)|
 
 
