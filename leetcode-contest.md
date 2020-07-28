@@ -58,7 +58,7 @@ ontop: true
 |---|---|---|
 |`3 分`\-[转变日期格式](https://leetcode-cn.com/problems/reformat-date/)||[查看](./reformat-date)|
 |`4 分`\-[子数组和排序后的区间和](https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums/)|前缀和|[查看](./range-sum-of-sorted-subarray-sums)|
-|`5 分`\-[三次操作后最大值与最小值的最小差](https://leetcode-cn.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)||待定|
+|`5 分`\-[三次操作后最大值与最小值的最小差](https://leetcode-cn.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|排序|[查看](./minimum-difference-between-largest-and-smallest-value-in-three-moves)|
 |`6 分`\-[石子游戏 IV](https://leetcode-cn.com/problems/stone-game-iv/)||待定|
 
 ### [周赛 #196](https://leetcode-cn.com/contest/weekly-contest-196)
