@@ -15,6 +15,15 @@ ontop: true
 
 [&rarr; 点我前往](/leetcode/)
 
+### [周赛 #200](https://leetcode-cn.com/contest/weekly-contest-200)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[统计好三元组](https://leetcode-cn.com/problems/count-good-triplets/)||待定|
+|`4 分`\-[找出数组游戏的赢家](https://leetcode-cn.com/problems/find-the-winner-of-an-array-game/)||待定|
+|`5 分`\-[排布二进制网格的最少交换次数](https://leetcode-cn.com/problems/minimum-swaps-to-arrange-a-binary-grid/)||待定|
+|`6 分`\-[最大得分](https://leetcode-cn.com/problems/get-the-maximum-score/)||待定|
+
 ### [周赛 #199](https://leetcode-cn.com/contest/weekly-contest-199)
 
 |内容|标签|操作|
