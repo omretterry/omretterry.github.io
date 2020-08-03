@@ -58,7 +58,7 @@ ontop: true
 |---|---|---|
 |`3 分`\-[好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/)|暴力，哈希表|[查看](./number-of-good-pairs)|
 |`4 分`\-[仅含 1 的子串数](https://leetcode-cn.com/problems/number-of-substrings-with-only-1s/)|滑动窗口，双指针|[查看](./number-of-substrings-with-only-1s)|
-|`5 分`\-[概率最大的路径](https://leetcode-cn.com/problems/path-with-maximum-probability/)||待定|
+|`5 分`\-[概率最大的路径](https://leetcode-cn.com/problems/path-with-maximum-probability/)|Dijkstra，优先队列|[查看](./path-with-maximum-probability)|
 |`7 分`\-[服务中心的最佳位置](https://leetcode-cn.com/problems/best-position-for-a-service-centre/)||待定|
 
 ### [双周赛 #30](https://leetcode-cn.com/contest/biweekly-contest-30)
