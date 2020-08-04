@@ -19,7 +19,7 @@ ontop: true
 
 |内容|标签|操作|
 |---|---|---|
-|`3 分`\-[统计好三元组](https://leetcode-cn.com/problems/count-good-triplets/)||待定|
+|`3 分`\-[统计好三元组](https://leetcode-cn.com/problems/count-good-triplets/)|暴力|[查看](./count-good-triplets)|
 |`4 分`\-[找出数组游戏的赢家](https://leetcode-cn.com/problems/find-the-winner-of-an-array-game/)||待定|
 |`5 分`\-[排布二进制网格的最少交换次数](https://leetcode-cn.com/problems/minimum-swaps-to-arrange-a-binary-grid/)||待定|
 |`6 分`\-[最大得分](https://leetcode-cn.com/problems/get-the-maximum-score/)||待定|
