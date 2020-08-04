@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录65题）
+## Leetcode 刷题笔记（已收录66题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -49,7 +49,7 @@ ontop: true
 |410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分，动态规划|[查看](./liner-data-structure/split-array-largest-sum)|
 
 
-##### 非线性数据结构（树，图，多维数组）(16题)
+##### 非线性数据结构（树，图，多维数组）(17题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -61,6 +61,7 @@ ontop: true
 |965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)|Easy|DFS|[查看](./nonliner-data-structure/univalued-binary-tree)|
 |面试题29|[顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)|Easy||[查看](./nonliner-data-structure/shun-shi-zhen-da-yin-ju-zhen-lcof)|
 |95|[不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)|Medium|递归|[查看](./nonliner-data-structure/unique-binary-search-trees-ii)|
+|207|[课程表](https://leetcode-cn.com/problems/course-schedule/)|Medium|拓扑排序，BFS|[查看](./nonliner-data-structure/course-schedule)|
 |208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|Medium|Trie|[查看](./nonliner-data-structure/implement-trie-prefix-tree)|
 |378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|二分|[查看](./nonliner-data-structure/kth-smallest-element-in-a-sorted-matrix)|
 |990|[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|Medium|并查集|[查看](./nonliner-data-structure/satisfiability-of-equality-equations)|
