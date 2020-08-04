@@ -28,8 +28,8 @@ ontop: true
 
 |内容|标签|操作|
 |---|---|---|
-|`3 分`\-[重新排列字符串](https://leetcode-cn.com/problems/shuffle-string/)||待定|
-|`4 分`\-[灯泡开关 IV](https://leetcode-cn.com/problems/bulb-switcher-iv/)||待定|
+|`3 分`\-[重新排列字符串](https://leetcode-cn.com/problems/shuffle-string/)||[查看](./shuffle-string)|
+|`4 分`\-[灯泡开关 IV](https://leetcode-cn.com/problems/bulb-switcher-iv/)|脑筋急转弯，贪心|[查看](./bulb-switcher-iv)|
 |`5 分`\-[好叶子节点对的数量](https://leetcode-cn.com/problems/number-of-good-leaf-nodes-pairs/)||待定|
 |`8 分`\-[压缩字符串 II](https://leetcode-cn.com/problems/string-compression-ii/)||待定|
 
@@ -37,8 +37,8 @@ ontop: true
 
 |内容|标签|操作|
 |---|---|---|
-|`3 分`\-[在区间范围内统计奇数数目](https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/)||待定|
-|`4 分`\-[和为奇数的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-with-odd-sum/)||待定|
+|`3 分`\-[在区间范围内统计奇数数目](https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/)|数学|[查看](./count-odd-numbers-in-an-interval-range)|
+|`4 分`\-[和为奇数的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-with-odd-sum/)|前缀和，数学|[查看](./number-of-sub-arrays-with-odd-sum)|
 |`5 分`\-[字符串的好分割数目](https://leetcode-cn.com/problems/number-of-good-ways-to-split-a-string/)||待定|
 |`7 分`\-[形成目标数组的子数组最少增加次数](https://leetcode-cn.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)||待定|
 
