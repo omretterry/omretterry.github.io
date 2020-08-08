@@ -48,7 +48,7 @@ ontop: true
 |---|---|---|
 |`3 分`\-[换酒问题](https://leetcode-cn.com/problems/water-bottles/)||[查看](./water-bottles)|
 |`5 分`\-[子树中标签相同的节点数](https://leetcode-cn.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|DFS，后序遍历|[查看](./number-of-nodes-in-the-sub-tree-with-the-same-label)|
-|`6 分`\-[最多的不重叠子字符串](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-substrings/)|贪心|待定|
+|`6 分`\-[最多的不重叠子字符串](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-substrings/)|贪心|[查看](./maximum-number-of-non-overlapping-substrings)|
 |`7 分`\-[找到最接近目标值的函数值](https://leetcode-cn.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/)||待定|
 
 
