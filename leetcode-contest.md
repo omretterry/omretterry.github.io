@@ -15,6 +15,24 @@ ontop: true
 
 [&rarr; 点我前往](/leetcode/)
 
+### [周赛 #201](https://leetcode-cn.com/contest/weekly-contest-201)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[整理字符串](https://leetcode-cn.com/problems/make-the-string-great/)||待定|
+|`4 分`\-[找出第 N 个二进制字符串中的第 K 位](https://leetcode-cn.com/problems/find-kth-bit-in-nth-binary-string/)||待定|
+|`6 分`\-[和为目标值的最大数目不重叠非空子数组数目](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/)||待定|
+|`7 分`\-[切棍子的最小成本](https://leetcode-cn.com/problems/minimum-cost-to-cut-a-stick/)||待定|
+
+### [双周赛 #32](https://leetcode-cn.com/contest/biweekly-contest-32)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[第 k 个缺失的正整数](https://leetcode-cn.com/problems/kth-missing-positive-number/)||待定|
+|`4 分`\-[K 次操作转变字符串](https://leetcode-cn.com/problems/can-convert-string-in-k-moves/)||待定|
+|`5 分`\-[平衡括号字符串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertions-to-balance-a-parentheses-string/)||待定|
+|`6 分`\-[找出最长的超赞子字符串](https://leetcode-cn.com/problems/find-longest-awesome-substring/)||待定|
+
 ### [周赛 #200](https://leetcode-cn.com/contest/weekly-contest-200)
 
 |内容|标签|操作|
