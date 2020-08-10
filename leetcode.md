@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录69题）
+## Leetcode 刷题笔记（已收录70题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -18,7 +18,7 @@ ontop: true
 
 ### 题目列表
 
-##### 线性数据结构（数组，栈，队列，链表）(25题)
+##### 线性数据结构（数组，栈，队列，链表）(26题)
 
 
 |编号|名称|难度|标签|操作|
@@ -31,6 +31,7 @@ ontop: true
 |392|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|Easy|双指针|[查看](./liner-data-structure/is-subsequence)|
 |415|[字符串相加](https://leetcode-cn.com/problems/add-strings/)|Easy|遍历|[查看](./liner-data-structure/add-strings)|
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|Easy|位运算|[查看](./liner-data-structure/hamming-distance)|
+|696|[计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/)|Easy|双指针|[查看](./liner-data-structure/count-binary-substrings)|
 |1431|[拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)|Easy||[查看](./liner-data-structure/kids-with-the-greatest-number-of-candies)|
 |面试题 08.03|[魔术索引](https://leetcode-cn.com/problems/magic-index-lcci/)|Easy|二分查找|[查看](./liner-data-structure/magic-index-lcci)|
 |面试题.64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|Easy||[查看](./liner-data-structure/qiu-12n-lcof)|
