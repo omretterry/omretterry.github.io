@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录70题）
+## Leetcode 刷题笔记（已收录71题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -18,7 +18,7 @@ ontop: true
 
 ### 题目列表
 
-##### 线性数据结构（数组，栈，队列，链表）(26题)
+##### 线性数据结构（数组，栈，队列，链表）(27题)
 
 
 |编号|名称|难度|标签|操作|
@@ -39,6 +39,7 @@ ontop: true
 |剑指 Offer 11|[旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)|Easy||[查看](./liner-data-structure/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)|
 |16|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|Medium|双指针|[查看](./liner-data-structure/3sum-closest)|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|Medium|递归， 回溯|[查看](./liner-data-structure/permutations)|
+|93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)|Medium|递归，回溯|[查看](./liner-data-structure/restore-ip-addresses)|
 |209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|Medium|前缀和，双指针（滑动窗口）|[查看](./liner-data-structure/minimum-size-subarray-sum)|
 |215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|Medium|二分，快排|[查看](./liner-data-structure/kth-largest-element-in-an-array)|
 |238|[除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)|Medium||[查看](./liner-data-structure/product-of-array-except-self)|
