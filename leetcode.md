@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录72题）
+## Leetcode 刷题笔记（已收录73题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -18,12 +18,13 @@ ontop: true
 
 ### 题目列表
 
-##### 线性数据结构（数组，栈，队列，链表）(27题)
+##### 线性数据结构（数组，栈，队列，链表）(28题)
 
 
 |编号|名称|难度|标签|操作|
 |------|------|------|------|------|
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|Easy||[查看](./liner-data-structure/longest-common-prefix)|
+|20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|Easy|栈|[查看](./liner-data-structure/valid-parentheses)|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|Easy|二分搜索|[查看](./liner-data-structure/search-insert-position)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|Easy|双指针|[查看](./liner-data-structure/valid-palindrome)|
 |167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|Easy|二分查找，双指针|[查看](./liner-data-structure/two-sum-ii-input-array-is-sorted)|
