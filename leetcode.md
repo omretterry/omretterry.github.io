@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录74题）
+## Leetcode 刷题笔记（已收录75题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -18,7 +18,7 @@ ontop: true
 
 ### 题目列表
 
-##### 线性数据结构（数组，栈，队列，链表）(28题)
+##### 线性数据结构（数组，栈，队列，链表）(29题)
 
 
 |编号|名称|难度|标签|操作|
@@ -44,6 +44,7 @@ ontop: true
 |209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|Medium|前缀和，双指针（滑动窗口）|[查看](./liner-data-structure/minimum-size-subarray-sum)|
 |215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|Medium|二分，快排|[查看](./liner-data-structure/kth-largest-element-in-an-array)|
 |238|[除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)|Medium||[查看](./liner-data-structure/product-of-array-except-self)|
+|647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|Medium|中心扩展法，Manacher|[查看](./liner-data-structure/palindromic-substrings)|
 |739|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|Medium|单调栈|[查看](./liner-data-structure/daily-temperatures)|
 |1300|[转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/)|Medium|二分法|[查看](./liner-data-structure/sum-of-mutated-array-closest-to-target)|
 |面试题 16.18|[模式匹配](https://leetcode-cn.com/problems/pattern-matching-lcci/)|Medium|递归，回溯|[查看](./liner-data-structure/pattern-matching-lcci)|
