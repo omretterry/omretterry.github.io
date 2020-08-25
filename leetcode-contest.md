@@ -15,6 +15,34 @@ ontop: true
 
 [&rarr; 点我前往](/leetcode/)
 
+### [周赛 #203](https://leetcode-cn.com/contest/weekly-contest-203)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[圆形赛道上经过次数最多的扇区](https://leetcode-cn.com/problems/most-visited-sector-in-a-circular-track/)||待定|
+|`4 分`\-[你可以获得的最大硬币数目](https://leetcode-cn.com/problems/maximum-number-of-coins-you-can-get/)||待定|
+|`6 分`\-[查找大小为 M 的最新分组](https://leetcode-cn.com/problems/find-latest-group-of-size-m/)||待定|
+|`7 分`\-[石子游戏 V](https://leetcode-cn.com/problems/stone-game-v/)||待定|
+
+### [双周赛 #33](https://leetcode-cn.com/contest/biweekly-contest-33)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[千位分隔数](https://leetcode-cn.com/problems/thousand-separator/)||待定|
+|`4 分`\-[可以到达所有点的最少点数目](https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)||待定|
+|`5 分`\-[得到目标数组的最少函数调用次数](https://leetcode-cn.com/problems/minimum-numbers-of-function-calls-to-make-target-array/)||待定|
+|`6 分`\-[二维网格图中探测环](https://leetcode-cn.com/problems/detect-cycles-in-2d-grid/)||待定|
+
+### [周赛 #202](https://leetcode-cn.com/contest/weekly-contest-202)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[存在连续三个奇数的数组](https://leetcode-cn.com/problems/three-consecutive-odds/)||待定|
+|`4 分`\-[使数组中所有元素相等的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-array-equal/)||待定|
+|`5 分`\-[两球之间的磁力](https://leetcode-cn.com/problems/magnetic-force-between-two-balls/)||待定|
+|`6 分`\-[吃掉 N 个橘子的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/)||待定|
+
+
 ### [周赛 #201](https://leetcode-cn.com/contest/weekly-contest-201)
 
 |内容|标签|操作|
