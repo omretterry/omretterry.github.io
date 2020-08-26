@@ -56,7 +56,7 @@ ontop: true
 
 |内容|标签|操作|
 |---|---|---|
-|`3 分`\-[第 k 个缺失的正整数](https://leetcode-cn.com/problems/kth-missing-positive-number/)||待定|
+|`3 分`\-[第 k 个缺失的正整数](https://leetcode-cn.com/problems/kth-missing-positive-number/)|哈希表|[查看](./kth-missing-positive-number)|
 |`4 分`\-[K 次操作转变字符串](https://leetcode-cn.com/problems/can-convert-string-in-k-moves/)||待定|
 |`5 分`\-[平衡括号字符串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertions-to-balance-a-parentheses-string/)||待定|
 |`6 分`\-[找出最长的超赞子字符串](https://leetcode-cn.com/problems/find-longest-awesome-substring/)||待定|
