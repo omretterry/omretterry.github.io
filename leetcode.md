@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录76题）
+## Leetcode 刷题笔记（已收录77题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -18,7 +18,7 @@ ontop: true
 
 ### 题目列表
 
-##### 线性数据结构（数组，栈，队列，链表）(29题)
+##### 线性数据结构（数组，栈，队列，链表）(31题)
 
 
 |编号|名称|难度|标签|操作|
@@ -39,11 +39,13 @@ ontop: true
 |剑指 Offer 09|[用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)|Easy||[查看](./liner-data-structure/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)|
 |剑指 Offer 11|[旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)|Easy||[查看](./liner-data-structure/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)|
 |16|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|Medium|双指针|[查看](./liner-data-structure/3sum-closest)|
+|17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|Medium|递归，回溯|[查看](./liner-data-structure/letter-combinations-of-a-phone-number)|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|Medium|递归， 回溯|[查看](./liner-data-structure/permutations)|
 |93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)|Medium|递归，回溯|[查看](./liner-data-structure/restore-ip-addresses)|
 |209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|Medium|前缀和，双指针（滑动窗口）|[查看](./liner-data-structure/minimum-size-subarray-sum)|
 |215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|Medium|二分，快排|[查看](./liner-data-structure/kth-largest-element-in-an-array)|
 |238|[除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)|Medium||[查看](./liner-data-structure/product-of-array-except-self)|
+|491|[递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/)|Medium|递归，回溯|[查看](./liner-data-structure/increasing-subsequences)|
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|Medium|中心扩展法，Manacher|[查看](./liner-data-structure/palindromic-substrings)|
 |739|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|Medium|单调栈|[查看](./liner-data-structure/daily-temperatures)|
 |1300|[转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/)|Medium|二分法|[查看](./liner-data-structure/sum-of-mutated-array-closest-to-target)|
@@ -54,7 +56,7 @@ ontop: true
 |410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分，动态规划|[查看](./liner-data-structure/split-array-largest-sum)|
 
 
-##### 非线性数据结构（树，图，多维数组）(22题)
+##### 非线性数据结构（树，图，多维数组）(21题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -73,7 +75,6 @@ ontop: true
 |208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|Medium|Trie|[查看](./nonliner-data-structure/implement-trie-prefix-tree)|
 |337|[打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|Medium|记忆化递归|[查看](./nonliner-data-structure/house-robber-iii)|
 |378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|二分|[查看](./nonliner-data-structure/kth-smallest-element-in-a-sorted-matrix)|
-|491|[递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/)|Medium|递归，回溯|[查看](./nonliner-data-structure/increasing-subsequences)|
 |990|[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|Medium|并查集|[查看](./nonliner-data-structure/satisfiability-of-equality-equations)|
 |743|[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|Medium|邻接表，Dijkstra算法|[查看](./nonliner-data-structure/network-delay-time)|
 |785|[判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)|Medium|染色法|[查看](./nonliner-data-structure/is-graph-bipartite)|
