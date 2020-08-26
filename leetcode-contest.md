@@ -47,7 +47,7 @@ ontop: true
 
 |内容|标签|操作|
 |---|---|---|
-|`3 分`\-[整理字符串](https://leetcode-cn.com/problems/make-the-string-great/)||待定|
+|`3 分`\-[整理字符串](https://leetcode-cn.com/problems/make-the-string-great/)|栈|[查看](./make-the-string-great)|
 |`4 分`\-[找出第 N 个二进制字符串中的第 K 位](https://leetcode-cn.com/problems/find-kth-bit-in-nth-binary-string/)||待定|
 |`6 分`\-[和为目标值的最大数目不重叠非空子数组数目](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/)||待定|
 |`7 分`\-[切棍子的最小成本](https://leetcode-cn.com/problems/minimum-cost-to-cut-a-stick/)||待定|
