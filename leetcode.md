@@ -57,7 +57,7 @@ ontop: true
 |410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分，动态规划|[查看](./liner-data-structure/split-array-largest-sum)|
 
 
-##### 非线性数据结构（树，图，多维数组）(21题)
+##### 非线性数据结构（树，图，多维数组）(22题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -74,6 +74,7 @@ ontop: true
 |130|[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)|Medium|DFS|[查看](./nonliner-data-structure/surrounded-regions)|
 |207|[课程表](https://leetcode-cn.com/problems/course-schedule/)|Medium|拓扑排序，BFS|[查看](./nonliner-data-structure/course-schedule)|
 |208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|Medium|Trie|[查看](./nonliner-data-structure/implement-trie-prefix-tree)|
+|332|[重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)|Medium|图，欧拉路径|[查看](./nonliner-data-structure/reconstruct-itinerary)|
 |337|[打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|Medium|记忆化递归|[查看](./nonliner-data-structure/house-robber-iii)|
 |378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|二分|[查看](./nonliner-data-structure/kth-smallest-element-in-a-sorted-matrix)|
 |990|[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|Medium|并查集|[查看](./nonliner-data-structure/satisfiability-of-equality-equations)|
