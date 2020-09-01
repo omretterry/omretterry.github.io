@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录77题）
+## Leetcode 刷题笔记（已收录78题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -57,7 +57,7 @@ ontop: true
 |410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分，动态规划|[查看](./liner-data-structure/split-array-largest-sum)|
 
 
-##### 非线性数据结构（树，图，多维数组）(22题)
+##### 非线性数据结构（树，图，多维数组）(23题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -80,6 +80,7 @@ ontop: true
 |990|[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|Medium|并查集|[查看](./nonliner-data-structure/satisfiability-of-equality-equations)|
 |743|[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|Medium|邻接表，Dijkstra算法|[查看](./nonliner-data-structure/network-delay-time)|
 |785|[判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)|Medium|染色法|[查看](./nonliner-data-structure/is-graph-bipartite)|
+|841|[钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)|Medium|图，dfs|[查看](./nonliner-data-structure/keys-and-rooms)|
 |124|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|Hard|DFS，递归|[查看](./nonliner-data-structure/binary-tree-maximum-path-sum)|
 |126|[单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/)|Hard|邻接表，双向BFS|[查看](./nonliner-data-structure/word-ladder-ii)
 |329|[矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|Hard|DFS，记忆化递归|[查看](./nonliner-data-structure/longest-increasing-path-in-a-matrix)|
