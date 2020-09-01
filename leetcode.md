@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录78题）
+## Leetcode 刷题笔记（已收录79题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -87,7 +87,7 @@ ontop: true
 |1028|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)|Hard|递归|[查看](./nonliner-data-structure/recover-a-tree-from-preorder-traversal)|
 
 
-##### 动态规划 (19题)
+##### 动态规划 (20题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -101,6 +101,7 @@ ontop: true
 |120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|Medium||[查看](./dp/triangle)|
 |139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|Medium|记忆化递归|[查看](./dp/word-break)|
 |309|[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium||[查看](./dp/best-time-to-buy-and-sell-stock-with-cooldown)|
+|486|[预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)|Medium||[查看](./dp/predict-the-winner)|
 |718|[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|Medium||[查看](./dp/maximum-length-of-repeated-subarray)|
 |837|[新21点](https://leetcode-cn.com/problems/new-21-game/)|Medium||[查看](./dp/new-21-game)|
 |1014|[最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)|Medium||[查看](./dp/best-sightseeing-pair)|
