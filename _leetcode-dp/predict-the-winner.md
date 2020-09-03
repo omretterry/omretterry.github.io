@@ -30,3 +30,35 @@ class Solution:
 
     return helper(0,len(nums)-1) >= 0
 ```
+
+### 方法二（动态规划）
+
+#### 思路
+
+记忆化递归通常可以转换成自底向上的动态规划方式来做
+
+* 定义`dp`数组，`dp[i][j]`表示选择当前人作为先手的前提下在区间`[i,j]`中，所能获得的最大相对分数
+* *相对分数*为先手分数和第二次选择的分数之差
+* BaseCase：当`i == j`时，表示只能选`i`，值为`nums[i]` 
+* 有了上面递归的过程，我们可以很容易推导出状态转移：
+`dp[i][j] = max(nums[i]-dp[i+1][j], nums[j]-dp[i][j-1])`
+* 要注意的我们递推的顺序，应为要从最低层情况开始遍历，所以我们要从最大边界开始遍历
+
+以上，尝试写一下代码，AC！
+
+#### 代码
+python3
+```python
+class Solution:
+    def PredictTheWinner(self, nums: List[int]) -> bool:
+        length = len(nums)
+        if length == 1:
+            return True
+        dp = [[0]*length for i in range(length)]
+        for i in range(length):
+            dp[i][i] = nums[i]
+        for m in range(1,length): #覆盖长度
+            for n in range(length-m): #i在该覆盖长度下的取值范围
+                dp[n][n+m] = max(nums[n]-dp[n+1][n+m],nums[n+m]-dp[n][n+m-1])
+        return dp[0][length-1]>=0
+```
