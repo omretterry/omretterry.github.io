@@ -15,6 +15,51 @@ ontop: true
 
 [&rarr; 点我前往](/leetcode/)
 
+### [周赛 #207](https://leetcode-cn.com/contest/weekly-contest-207)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[新排列单词间的空格](https://leetcode-cn.com/problems/rearrange-spaces-between-words/)||待定|
+|`4 分`\-[分字符串使唯一子字符串的数目最大](https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)||待定|
+|`5 分`\-[阵的最大非负积](https://leetcode-cn.com/problems/maximum-non-negative-product-in-a-matrix/)||待定|
+|`6 分`\-[通两组点的最小成本](https://leetcode-cn.com/problems/minimum-cost-to-connect-two-groups-of-points/)||待定|
+
+### [双周赛 #35](https://leetcode-cn.com/contest/biweekly-contest-35)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/)||待定|
+|`5 分`\-[所有排列中的最大和](https://leetcode-cn.com/problems/maximum-sum-obtained-of-any-permutation/)||待定|
+|`5 分`\-[使数组和能被 P 整除](https://leetcode-cn.com/problems/make-sum-divisible-by-p/)||待定|
+|`6 分`\-[奇怪的打印机 II](https://leetcode-cn.com/problems/strange-printer-ii/)||待定|
+
+### [周赛 #206](https://leetcode-cn.com/contest/weekly-contest-206)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[二进制矩阵中的特殊位置](https://leetcode-cn.com/problems/special-positions-in-a-binary-matrix/)||待定|
+|`4 分`\-[统计不开心的朋友](https://leetcode-cn.com/problems/count-unhappy-friends/)||待定|
+|`5 分`\-[连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/)||待定|
+|`6 分`\-[检查字符串是否可以通过排序子字符串得到另一个字符串](https://leetcode-cn.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)||待定|
+
+### [周赛 #205](https://leetcode-cn.com/contest/weekly-contest-205)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)||待定|
+|`5 分`\-[数的平方等于两数乘积的方法数](https://leetcode-cn.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/)||待定|
+|`5 分`\-[避免重复字母的最小删除成本](https://leetcode-cn.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/)||待定|
+|`6 分`\-[保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)||待定|
+
+### [双周赛 #34](https://leetcode-cn.com/contest/biweekly-contest-34)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[矩阵对角线元素的和](https://leetcode-cn.com/problems/matrix-diagonal-sum/)||待定|
+|`4 分`\-[分割字符串的方案数](https://leetcode-cn.com/problems/number-of-ways-to-split-a-string/)||待定|
+|`5 分`\-[删除最短的子数组使剩余数组有序](https://leetcode-cn.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)||待定|
+|`6 分`\-[统计所有可行路径](https://leetcode-cn.com/problems/count-all-possible-routes/)||待定|
+
 ### [周赛 #204](https://leetcode-cn.com/contest/weekly-contest-204)
 
 |内容|标签|操作|
