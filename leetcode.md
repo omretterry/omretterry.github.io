@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录79题）
+## Leetcode 刷题笔记（已收录80题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -57,7 +57,7 @@ ontop: true
 |410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分，动态规划|[查看](./liner-data-structure/split-array-largest-sum)|
 
 
-##### 非线性数据结构（树，图，多维数组）(23题)
+##### 非线性数据结构（树，图，多维数组）(24题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -68,6 +68,7 @@ ontop: true
 |110|[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)|Easy|DFS|[查看](./nonliner-data-structure/balanced-binary-tree)|
 |111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|Easy|BFS|[查看](./nonliner-data-structure/minimum-depth-of-binary-tree)|
 |112|[路径总和](https://leetcode-cn.com/problems/path-sum/)|Easy|DFS|[查看](./nonliner-data-structure/path-sum)|
+|617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|Easy|DFS|[查看](./nonliner-data-structure/merge-two-binary-trees)|
 |965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)|Easy|DFS|[查看](./nonliner-data-structure/univalued-binary-tree)|
 |面试题29|[顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)|Easy||[查看](./nonliner-data-structure/shun-shi-zhen-da-yin-ju-zhen-lcof)|
 |95|[不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)|Medium|递归|[查看](./nonliner-data-structure/unique-binary-search-trees-ii)|
