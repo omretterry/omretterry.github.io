@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录81题）
+## Leetcode 刷题笔记（已收录82题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -73,6 +73,7 @@ ontop: true
 |965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)|Easy|DFS|[查看](./nonliner-data-structure/univalued-binary-tree)|
 |面试题29|[顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)|Easy||[查看](./nonliner-data-structure/shun-shi-zhen-da-yin-ju-zhen-lcof)|
 |95|[不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)|Medium|递归|[查看](./nonliner-data-structure/unique-binary-search-trees-ii)|
+|106|[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|Medium|递归|[查看](./nonliner-data-structure/construct-binary-tree-from-inorder-and-postorder-traversal)|
 |130|[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)|Medium|DFS|[查看](./nonliner-data-structure/surrounded-regions)|
 |207|[课程表](https://leetcode-cn.com/problems/course-schedule/)|Medium|拓扑排序，BFS|[查看](./nonliner-data-structure/course-schedule)|
 |208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|Medium|Trie|[查看](./nonliner-data-structure/implement-trie-prefix-tree)|
