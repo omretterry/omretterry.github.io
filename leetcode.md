@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录83题）
+## Leetcode 刷题笔记（已收录84题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -57,7 +57,7 @@ ontop: true
 |410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分，动态规划|[查看](./liner-data-structure/split-array-largest-sum)|
 
 
-##### 非线性数据结构（树，图，多维数组）(26题)
+##### 非线性数据结构（树，图，多维数组）(27题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -76,6 +76,7 @@ ontop: true
 |106|[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|Medium|递归|[查看](./nonliner-data-structure/construct-binary-tree-from-inorder-and-postorder-traversal)|
 |117|[填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)|Medium|BFS|[查看](./nonliner-data-structure/populating-next-right-pointers-in-each-node-ii)
 |130|[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)|Medium|DFS|[查看](./nonliner-data-structure/surrounded-regions)|
+|145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|Medium|DFS|[查看](./nonliner-data-structure/binary-tree-postorder-traversal)|
 |207|[课程表](https://leetcode-cn.com/problems/course-schedule/)|Medium|拓扑排序，BFS|[查看](./nonliner-data-structure/course-schedule)|
 |208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|Medium|Trie|[查看](./nonliner-data-structure/implement-trie-prefix-tree)|
 |332|[重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)|Medium|图，欧拉路径|[查看](./nonliner-data-structure/reconstruct-itinerary)|
