@@ -4,7 +4,7 @@ title: Leetcode刷题笔记
 ontop: true
 ---
 
-## Leetcode 刷题笔记（已收录84题）
+## Leetcode 刷题笔记（已收录85题）
 > Terry Li 的Leetcode刷题之路 
 
 
@@ -57,7 +57,7 @@ ontop: true
 |410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)|Hard|二分，动态规划|[查看](./liner-data-structure/split-array-largest-sum)|
 
 
-##### 非线性数据结构（树，图，多维数组）(27题)
+##### 非线性数据结构（树，图，多维数组）(28题)
 
 
 |  编号  | 名称 | 难度 | 标签 | 操作 |
@@ -82,6 +82,7 @@ ontop: true
 |332|[重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)|Medium|图，欧拉路径|[查看](./nonliner-data-structure/reconstruct-itinerary)|
 |337|[打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|Medium|记忆化递归|[查看](./nonliner-data-structure/house-robber-iii)|
 |378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|二分|[查看](./nonliner-data-structure/kth-smallest-element-in-a-sorted-matrix)|
+|701|[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)|Medium|DFS|[查看](./nonliner-data-structure/insert-into-a-binary-search-tree)|
 |990|[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|Medium|并查集|[查看](./nonliner-data-structure/satisfiability-of-equality-equations)|
 |743|[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|Medium|邻接表，Dijkstra算法|[查看](./nonliner-data-structure/network-delay-time)|
 |785|[判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)|Medium|染色法|[查看](./nonliner-data-structure/is-graph-bipartite)|
