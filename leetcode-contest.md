@@ -15,6 +15,69 @@ ontop: true
 
 [&rarr; 点我前往](/leetcode/)
 
+### [周赛 #212](https://leetcode-cn.com/contest/weekly-contest-212)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key/)||待定|
+|`4 分`\-[等差子数组](https://leetcode-cn.com/problems/arithmetic-subarrays/)||待定|
+|`5 分`\-[最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/)||待定|
+|`7 分`\-[矩阵转换后的秩](https://leetcode-cn.com/problems/rank-transform-of-a-matrix/)||待定|
+
+### [周赛 #211](https://leetcode-cn.com/contest/weekly-contest-211)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[两个相同字符之间的最长子字符串](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/)||待定|
+|`4 分`\-[执行操作后字典序最小的字符串](https://leetcode-cn.com/problems/lexicographically-smallest-string-after-applying-operations/)||待定|
+|`5 分`\-[无矛盾的最佳球队](https://leetcode-cn.com/problems/best-team-with-no-conflicts/)||待定|
+|`6 分`\-[带阈值的图连通性](https://leetcode-cn.com/problems/graph-connectivity-with-threshold/)||待定|
+
+### [双周赛 #37](https://leetcode-cn.com/contest/biweekly-contest-37)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[设计停车系统](https://leetcode-cn.com/problems/design-parking-system/)||待定|
+|`4 分`\-[警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)||待定|
+|`6 分`\-[给定行和列的和求可行矩阵](https://leetcode-cn.com/problems/find-valid-matrix-given-row-and-column-sums/)||待定|
+|`7 分`\-[找到处理最多请求的服务器](https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/)||待定|
+
+### [周赛 #210](https://leetcode-cn.com/contest/weekly-contest-210)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/)||待定|
+|`4 分`\-[最大网络秩](https://leetcode-cn.com/problems/maximal-network-rank/)||待定|
+|`5 分`\-[分割两个字符串得到回文串](https://leetcode-cn.com/problems/split-two-strings-to-make-palindrome/)||待定|
+|`6 分`\-[统计子树中城市之间最大距离](https://leetcode-cn.com/problems/count-subtrees-with-max-distance-between-cities/)||待定|
+
+### [周赛 #209](https://leetcode-cn.com/contest/weekly-contest-209)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[特殊数组的特征值](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)||待定|
+|`4 分`\-[奇偶树](https://leetcode-cn.com/problems/even-odd-tree/)||待定|
+|`5 分`\-[可见点的最大数目](https://leetcode-cn.com/problems/maximum-number-of-visible-points/)||待定|
+|`6 分`\-[使整数变为 0 的最少操作次数](https://leetcode-cn.com/problems/minimum-one-bit-operations-to-make-integers-zero/)||待定|
+
+### [双周赛 #36](https://leetcode-cn.com/contest/biweekly-contest-36)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[设计停车系统](https://leetcode-cn.com/problems/design-parking-system/)||待定|
+|`4 分`\-[警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)||待定|
+|`6 分`\-[给定行和列的和求可行矩阵](https://leetcode-cn.com/problems/find-valid-matrix-given-row-and-column-sums/)||待定|
+|`7 分`\-[找到处理最多请求的服务器](https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/)||待定|
+
+### [周赛 #208](https://leetcode-cn.com/contest/weekly-contest-208)
+
+|内容|标签|操作|
+|---|---|---|
+|`3 分`\-[文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder/)||待定|
+|`4 分`\-[经营摩天轮的最大利润](https://leetcode-cn.com/problems/maximum-profit-of-operating-a-centennial-wheel/)||待定|
+|`5 分`\-[皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance/)||待定|
+|`6 分`\-[最多可达成的换楼请求数目](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/)||待定|
+
 ### [周赛 #207](https://leetcode-cn.com/contest/weekly-contest-207)
 
 |内容|标签|操作|
