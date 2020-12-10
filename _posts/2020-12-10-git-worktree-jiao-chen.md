@@ -15,7 +15,7 @@ git worktree 是git提供的连接到统一仓库的多个工作树，一个主�
 `git worktree` 在表现结果上来看和`git clone`很接近。但是`git worktree`会同步本地仓库，本质上使用的是一个仓库。`git clone` 等于重开一个本地仓库，每次`clone` 也比较耗时
 
 #### **如何使用**
-一下列出，常用的`git worktree`使用方法
+以下列出，常用的`git worktree`使用方法
 
 **1.添加`worktree`**
 
@@ -23,7 +23,7 @@ git worktree 是git提供的连接到统一仓库的多个工作树，一个主�
 git worktree add [新路径] [分支]
 ```
 
-操作之后会在只定路径生成新的目录，效果和`clone`一样，然后就可以在新目录上操作了
+操作之后会在指定路径生成新的目录，效果和`clone`一样，然后就可以在新目录上操作了
 
 ![](/public/images/2020-12-10-git-worktree-jiao-chen-1.png)
 
@@ -48,7 +48,7 @@ git worktree prune
 
 **注意**
 
-当存在worktree是某一个分支时，另一个worktree不能切到当前分支，如下图
+当存在worktree是某一个分支时，另一个worktree不能切换当前分支，如下图
 
 ![](/public/images/2020-12-10-git-worktree-jiao-chen-4.png)
 
